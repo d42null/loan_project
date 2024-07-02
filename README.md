@@ -55,6 +55,7 @@
         "periodicity": "1m",
         "interest_rate": 0.1
     }
+    ```
 
     ### Зміна платежу
 
@@ -65,6 +66,7 @@
     {
         "reduction_amount": 50
     }
+    ```
 
 6. Запуск тестів:
 
